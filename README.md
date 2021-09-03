@@ -7,11 +7,11 @@ Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip
 
 ## Directions from maryville to kanyakumari
 
-1.For reaching kanyakumari from maryville.
-    1.reach to kansas city airport in a vehicle.
-    2.We should book out flight tickets prior, from kansas to chicago and chicago to chennai,india. 
-    3.Hire a vehicle or use public transportation to reach kanyakumari.
-2.End of your journey.
+1. For reaching kanyakumari from maryville.
+    1. reach to kansas city airport in a vehicle.
+    2. We should book out flight tickets prior, from kansas to chicago and chicago to chennai,india. 
+    3. Hire a vehicle or use public transportation to reach kanyakumari.
+2. End of your journey.
 
 
 
