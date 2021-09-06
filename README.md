@@ -23,4 +23,3 @@ Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip
 * Powerbank
 
 
-**[Click here for About ME](AboutMe.md)**
