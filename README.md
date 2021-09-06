@@ -15,12 +15,12 @@ Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip
 
 ### Things to bring for maximum enjoyment
 
-*Beach wears
-    *T-shirts and shorts
-*Camera for Pictures
-    *DSLR camera if availbale or Phone camera
-    *Tripod or selfie stick
-*Powerbank
+* Beach wears
+    * T-shirts and shorts
+* Camera for Pictures
+    * DSLR camera if availbale or Phone camera
+    * Tripod or selfie stick
+* Powerbank
 
 
 
