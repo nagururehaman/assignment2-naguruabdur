@@ -13,6 +13,15 @@ Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip
     3. Hire a vehicle or use public transportation to reach kanyakumari.
 2. End of your journey.
 
+### Things to bring for maximum enjoyment
+
+*Beach wears
+    *T-shirts and shorts
+*Camera for Pictures
+    *DSLR camera if availbale or Phone camera
+    *Tripod or selfie stick
+*Powerbank
+
 
 
 
