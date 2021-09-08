@@ -16,3 +16,11 @@ From my experiences these are the famous foods in india and it is worth to pay s
 | Fish Fry | chennai,India | 200INR (2.7 USD) |
 | Qureshi Kabab | chandini chowk,Delhi | 70 INR (1USD) |
 | Rabri Falooda | gaini, Old Delhi | 100 INR (1.5USD) |
+
+***
+
+### Quotes That Will Inspire you Everyday
+
+> The most effective way to do it is to do it. *amelia earhart*
+> Every pain gives a lesson and every lesson changes a person. *A. P. J. Abdul Kalam*
+> Peace begins with a smile. *Mother Teresa*
