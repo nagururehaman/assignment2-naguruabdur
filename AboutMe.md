@@ -6,11 +6,13 @@ I am from Tirupathi, Andhra pradesh state, India. I worked as Data Analyst in Am
 
 ***
 
-### New Section
+### Famous Foods IN INDIA
 
-| Price | Location | Cost |
+From my experiences these are the famous foods in india and it is worth to pay such amount for the delicious taste. I suggest everyone to try these foods atleast once in their lifetime.
+
+| Food/Drink | Location | Cost |
 | ---| ---| ---: |
-| Charminar Briyani | Chennai,India | 120INR (2USD) |
+| Bawarchi Briyani | Hyderabad,India | 160INR (2USD) |
 | Fish Fry | chennai,India | 200INR (2.7USD) |
 | Qureshi Kabab | chandini chowk,Delhi | 70INR (1USD) |
 | Rabri Falooda | gaini, Old Delhi | 100INR (1.5USD) |
