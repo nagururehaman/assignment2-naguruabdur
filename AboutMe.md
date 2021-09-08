@@ -21,8 +21,8 @@ From my experiences these are the famous foods in india and it is worth to pay s
 
 ### Quotes That Will Inspire you Everyday
 
-> The most effective way to do it is to do it. *amelia earhart*
+> The most effective way to do it is to do it.  -*amelia earhart*
 
-> Every pain gives a lesson and every lesson changes a person. *A. P. J. Abdul Kalam*
+> Every pain gives a lesson and every lesson changes a person.  -*A. P. J. Abdul Kalam*
 
-> Peace begins with a smile. *Mother Teresa*
+> Peace begins with a smile.  -*Mother Teresa*
