@@ -12,7 +12,7 @@ From my experiences these are the famous foods in india and it is worth to pay s
 
 | Food/Drink | Location | Cost |
 | ---| ---| ---: |
-| Bawarchi Briyani | Hyderabad,India | 160INR (2USD) |
-| Fish Fry | chennai,India | 200INR (2.7USD) |
-| Qureshi Kabab | chandini chowk,Delhi | 70INR (1USD) |
-| Rabri Falooda | gaini, Old Delhi | 100INR (1.5USD) |
+| Bawarchi Briyani | Hyderabad,India | 160 INR (2USD) |
+| Fish Fry | chennai,India | 200INR (2.7 USD) |
+| Qureshi Kabab | chandini chowk,Delhi | 70 INR (1USD) |
+| Rabri Falooda | gaini, Old Delhi | 100 INR (1.5USD) |
