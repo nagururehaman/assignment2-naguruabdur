@@ -31,6 +31,13 @@ From my experiences these are the famous foods in india and it is worth to pay s
 
 ### New Section
 
+> I have an array of string, which holds the list of strings. I want to figure out is there any duplicate entries in this list. Basically i have a list of users, and there should be no duplicate entries.
+
+## Link for the Description
+
+**[Click Here for Description Page](https://stackoverflow.com/questions/15356974/how-to-find-duplicate-string-from-an-array-of-string)**
+
+
 ~~~
 
 vector<vector<int>> group_identical_strings(vector<string> const& s) {
