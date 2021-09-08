@@ -8,9 +8,9 @@ I am from Tirupathi, Andhra pradesh state, India. I worked as Data Analyst in Am
 
 ### New Section
 
-| P | Q | P and Q |
+| Price | Location | Cost |
 | ---| ---| ---: |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| Charminar Briyani | Chennai,India | 120INR (2USD) |
+| Fish Fry | chennai,India | 200INR (2.7USD) |
+| Qureshi Kabab | chandini chowk,Delhi | 70INR (1USD) |
+| Rabri Falooda | gaini, Old Delhi | 100INR (1.5USD) |
